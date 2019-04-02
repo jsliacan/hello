@@ -1,9 +1,9 @@
 package hello
 
 import (
-  "fmt"
+	"fmt"
 )
 
 func Greet() {
-  fmt.Println("Hello stranger!)
+	fmt.Println("Hello stranger!")
 }
