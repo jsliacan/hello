@@ -2,8 +2,6 @@ package hello
 
 import (
 	"fmt"
-
-	"github.com/jsliacan/hello"
 )
 
 func noBigDeal() string {
